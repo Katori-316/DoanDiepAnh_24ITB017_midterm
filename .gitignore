@@ -1,0 +1,18 @@
+# Binary
+myls
+
+# Object files
+*.o
+
+# Editor temporary files
+*~
+*.swp
+
+# Core dumps
+core
+core.*
+
+# Temporary test output
+a.txt
+b.txt
+

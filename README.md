@@ -1,4 +1,4 @@
-# myls - UNIX/System Programming Midterm
+# System Programming Midterm
 
 ## 1. Student Information
 
@@ -8,8 +8,6 @@
 - Assignment: Midterm Project
 
 ## 2. Project Description
-
-This project implements a simplified version of the NetBSD `ls(1)` command in C.
 
 The program is named `myls` and is designed according to the provided NetBSD 10.1 `ls` manual.
 
@@ -36,4 +34,7 @@ The following options are implemented:
 - `-t` : sort by modification time
 - `-u` : use access time instead of modification time
 - `-w` : display non-printable characters in raw form
+
+## 4. Intruction
+./myls [op] [file]
 
